@@ -1,2 +1,5 @@
-# arielsouto99.github.io
-Proyecto Restaurante
+# Proyecto Restaurante
+
+> Básico maquetado web
+> Dentro posee código de otros proyectos vinculados a mi portfolio
+
